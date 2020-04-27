@@ -21,6 +21,8 @@
         <module>tensquare_sms</module>
         <module>tensquare_eureka</module>
         <module>tensquare_friend</module>
+        <module>tensquare_manager</module>
+        <module>tensquare_web</module>
     </modules>
     <packaging>pom</packaging>
 
